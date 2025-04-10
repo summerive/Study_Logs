@@ -1,3 +1,3 @@
-# Engineering
-In this repository, progress of engineering task or record of studies are treated.  
-To see in detail, go to issue section.
+# Study_Logs
+The study records are covered in this repository.
+Each issue represents a study theme.
